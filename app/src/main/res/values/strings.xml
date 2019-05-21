@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Kotlin Formula Calc</string>
+    <string name="rumus_luas_segitiga">Rumus Luas Segitiga</string>
+    <string name="rumus_luas_persegi_persegi_panjang">Rumus Luas Persegi/Persegi PAnjang</string>
+    <string name="rumus_luas_jajargenjang">Rumus Luas Jajargenjang</string>
+    <string name="rumus_luas_lingkaran">Rumus Luas lingkaran</string>
+    <string name="hitung">Hitung</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+</resources>
