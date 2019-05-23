@@ -25,7 +25,7 @@ class LuasSegitigaActivity : AppCompatActivity() {
             val tinggiSE = tinggi_segitiga.text.toString()
             val tinggiS = tinggiSE.toDouble()
 
-            val hasil = (tinggiS * alasS)
+            val hasil = tinggiS * alasS / 2
             hasil_segitiga.text = hasil.toString()
 
         }
